@@ -1,2 +1,2 @@
-# Databases_Lab1
+# Databases
 Ознайомлення з базовими операціями СУБД PostgreSQL
